@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="./assets/primeflix_image.png">
+    <img src="./src/assets/primeflix_image.png">
 </h1>
 
 <h3 align="center">
@@ -52,4 +52,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 ---
 
-Desenvolvido  por Rogerio Paiva
+<span align="center">Desenvolvido por Rogério Paiva</span>
