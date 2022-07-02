@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="assets/../projeto-filmes/src/assets/primeflix_image.png">
+    <img src="./assets/primeflix_image.png">
 </h1>
 
 <h3 align="center">
