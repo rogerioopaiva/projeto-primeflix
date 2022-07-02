@@ -51,5 +51,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```
 
 ---
-
-<span align="center">Desenvolvido por Rogério Paiva</span>
+<p align="center">Desenvolvido por Rogério Paiva</p>
